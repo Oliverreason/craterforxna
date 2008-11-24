@@ -1,3 +1,5 @@
+#summary Aloituspalaveri 24.11.2008
+
 = Päätökset =
 
   * Käytetään alustavasti XNA:ta (ainakin prototyyppiin -- Ogre/C++ sitten jos rupee ahdistaan)
