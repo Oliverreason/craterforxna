@@ -1,0 +1,58 @@
+#Aloituspalaveri
+
+= Päätökset =
+
+* Käytetään alustavasti XNA:ta (ainakin prototyyppiin -- Ogre/C++ sitten jos rupee ahdistaan)
+* code.google.com tarjoaa SVN+wiki+issueträkkäys
+* Google-accountit Antille sähköpostilla (antti.jarvinen@uta.fi)
+* pelidokkarin ja teknisen dokkarin pohja wikiin --> Jukka & Sami laittaa
+* kaikki koodarit tutustuvat XNA:han
+* seuraava miitti, jossa mietitään alustava arkkitehtuuri ja pientä koodin tsekkausta, jonka pohjalta sitten aletaan prototyypin rakennus
+* prototyyppiin aluksi yksinkertainen area, perusfysiikat, BSP-leveli
+* Jukka laittaa SVN:ään ensimmäisen tutoriaalipohjan
+* concept arttia Samilta
+
+= Linkkejä =
+
+* TTY-Peliohjelmointi-slidet (http://www.cs.tut.fi/~peliohj/materiaali.html)
+* http://www.gamedev.net/
+* http://forum.freegamedev.net/
+* UML-suunnitteluun: JUDE Community (http://jude.change-vision.com/jude-web/) (vaikka on Java-pohjanen, niin näppärä muillekin kielille -- jos tiedätte jotai muita hyviä & ilmasia, niin ilmotelkaa)
+
+= Roolit = 
+
+Ja tässä vielä näitä "virallisia" roolituksia peliprojekteissa:
+
+  - suunnittelu
+    lead designer/visionary
+    game mechanics
+    level/mission designers
+    story and dialogue writers
+
+  - grafiikat
+    art director
+    concept artist
+    2D-grafiikka/käyttöliittymät
+    3D-modelaus
+    animointi
+    teksturointi
+
+  - koodaus
+    lead programmer
+    game mechanics programmer
+    3D-graphics programmer
+    AI programmer
+    user interface programmer
+    audio programmer
+    tools programmer
+    mission/level editor programmer
+    network programmer
+
+  - audio
+    voice-overs
+    efektit
+    musat
+
+  - testaus
+
+  - manuaali/webbisivut/muu oheissälä
