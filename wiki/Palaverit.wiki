@@ -1,4 +1,4 @@
-#Pidetyt palaverit
+#summary Pidetyt palaverit
 
 = Palaverit =
 
