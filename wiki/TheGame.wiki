@@ -1,0 +1,71 @@
+#summary Concept and storyline
+
+= Concept =
+
+== Taustoja ==
+Vuonna 2XXX Maahan iskeytyi meteoriitti XXXX. ... kunnes X vuoden kuluttua kylän asukkaat huomasivat olevansa karanteenissa tutkimuslaitoksen aitojen sisäpuolella. 
+
+== Nykytilanne ==
+Craterin tutkimuslaitoksessa työskentelee satoja ihmisiä vuorokauden ympäri. Lääkäreitä, tutkijoita, vartijoita, toimihenkilöitä, johtajia, rakennusinsinöörejä, siivoojia jne.
+
+Meteoriitin mukana tulleet "madot" voivat tunkeutua minkä tahansa eläimen tai ihmisen sisään antaen isännälleen mahtavat voimat. Altistaminen "madoille" ei kuitenkaan ole riskitöntä ja sillä voi olla vakavia seuraamuksia.
+
+
+== Juoni ==
+Olet työntekijänä Craterilla. Aloitat työpäiväsi normaaliin tapaan ja esität portilla vartijalle henkilökorttisi, jossa hahmon luonti tapahtuu. Kävelet työpisteellesi ja hoidat muutamia sinulle kuuluvia työtehtäviä. Olet laboratoriossa (tutkimassa, korjaamassa, siivoomassa, tekemässä kierrosta, jne.), kun....
+
+* CRATER JOUTUU KAAOKSEEN *
+
+Crater on kaaoksen vallassa. Et tiedä mitä on tapahtunut ja haluat äkkiä ulos. Olet kuullut, että Craterilla on tehty vaarallisia kokeita madoilla myös ihmisiin, jotka eivät välttämättä ole olleet halukkaita yhteistyöhön. Lähdet juoksemaan kohti ulosmenoa...
+
+* ALTISTUMINEN MADOILLE * 
+
+Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytämään matojen antamat erikoisvoimat. Haluat silti päästä pois Craterista, mutta pako ei olekaan niin helppoa. Muut altistuneet tietävät sinulla olevan matoja ja jotkut heistä haluavat kasvattaa voimiaan ottamalla matosi itselleen.
+
+* KAAOKSEN SYY SELVIÄÄ *
+
+...
+
+* PÄÄSET ULOS *
+
+= Gameplay =
+
+[WikiSyntax Hahmonluonti]
+
+  * Erikoisalat
+
+[WikiSyntax Hahmonkehitys]
+
+  * Level up
+
+  * Skill improvement
+
+  * Hyvis vs. pahis
+
+[WikiSyntax Eroikoisvoimat]
+
+  * Vaihtoehdot
+
+  * Käyttö
+
+[WikiSyntax "Madot"]
+
+  * Kuinka paljon
+
+  * Vaikutukset
+
+  * Riskit
+
+  * Matojen menettäminen
+
+[WikiSyntax NPC]
+
+  * Lista eri vihollisista
+
+  * Erikoisviholliset
+
+  *  Muut NPC:t
+
+[WikiSyntax Taistelut]
+
+[WikiSyntax Aseet]
