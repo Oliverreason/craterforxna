@@ -8,7 +8,7 @@ Vuonna 2XXX Maahan iskeytyi meteoriitti XXXX. ... kunnes X vuoden kuluttua kylä
 == Nykytilanne ==
 Craterin tutkimuslaitoksessa työskentelee satoja ihmisiä vuorokauden ympäri. Lääkäreitä, tutkijoita, vartijoita, toimihenkilöitä, johtajia, rakennusinsinöörejä, siivoojia jne.
 
-Meteoriitin mukana tulleet "madot" voivat tunkeutua minkä tahansa eläimen tai ihmisen sisään antaen isännälleen mahtavat voimat. Altistaminen "madoille" ei kuitenkaan ole riskitöntä ja sillä voi olla vakavia seuraamuksia.
+Meteoriitin mukana tulleet "madot" voivat tunkeutua minkä tahansa eläimen tai ihmisen sisään muodostaen symbioosin isäntänsä kanssa antaen tälle mahtavat voimat. Altistaminen "madoille" ei kuitenkaan ole riskitöntä ja sillä voi olla vakavia seuraamuksia.
 
 
 == Juoni ==
@@ -20,7 +20,7 @@ Crater on kaaoksen vallassa. Et tiedä mitä on tapahtunut ja haluat äkkiä ulo
 
 * ALTISTUMINEN MADOILLE * 
 
-Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytämään matojen antamat erikoisvoimat. Haluat silti päästä pois Craterista, mutta pako ei olekaan niin helppoa. Muut altistuneet tietävät sinulla olevan matoja ja jotkut heistä haluavat kasvattaa voimiaan ottamalla matosi itselleen.
+Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytämään symbionttien antamat erikoisvoimat. Haluat silti päästä pois Craterista, mutta pako ei olekaan niin helppoa. Muut altistuneet tietävät sinulla olevan matoja ja jotkut heistä haluavat kasvattaa voimiaan ottamalla matosi itselleen.
 
 * KAAOKSEN SYY SELVIÄÄ *
 
@@ -30,11 +30,11 @@ Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytä
 
 = Gameplay =
 
-[WikiSyntax Hahmonluonti]
+[Hahmonluonti]
 
   * Erikoisalat
 
-[WikiSyntax Hahmonkehitys]
+[Hahmonkehitys]
 
   * Level up
 
@@ -42,13 +42,13 @@ Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytä
 
   * Hyvis vs. pahis
 
-[WikiSyntax Eroikoisvoimat]
+[Eroikoisvoimat]
 
   * Vaihtoehdot
 
   * Käyttö
 
-[WikiSyntax "Madot"]
+["Madot"]
 
   * Kuinka paljon
 
@@ -58,7 +58,7 @@ Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytä
 
   * Matojen menettäminen
 
-[WikiSyntax NPC]
+[NPC]
 
   * Lista eri vihollisista
 
@@ -66,6 +66,6 @@ Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytä
 
   *  Muut NPC:t
 
-[WikiSyntax Taistelut]
+[Taistelut]
 
-[WikiSyntax Aseet]
+[Aseet]
