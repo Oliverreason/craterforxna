@@ -3,7 +3,7 @@
 = Concept =
 
 == Taustoja ==
-Vuonna 2XXX Maahan iskeytyi meteoriitti XXXX. ... kunnes X vuoden kuluttua kylän asukkaat huomasivat olevansa karanteenissa tutkimuslaitoksen aitojen sisäpuolella. 
+Vuonna 2XXX Maahan iskeytyi meteoriitti XXXX. ... kunnes X vuoden kuluttua kraaterin ympärille on rakennettu tutkimuslaitos CRATER. 
 
 == Nykytilanne ==
 Craterin tutkimuslaitoksessa työskentelee satoja ihmisiä vuorokauden ympäri. Lääkäreitä, tutkijoita, vartijoita, toimihenkilöitä, johtajia, rakennusinsinöörejä, siivoojia jne.
