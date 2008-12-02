@@ -2,31 +2,34 @@
 
 = Concept =
 
-== Taustoja ==
-Vuonna 2XXX Maahan iskeytyi meteoriitti XXXX. ... kunnes X vuoden kuluttua kraaterin ympärille on rakennettu tutkimuslaitos CRATER. 
-
-== Nykytilanne ==
-Craterin tutkimuslaitoksessa työskentelee satoja ihmisiä vuorokauden ympäri. Lääkäreitä, tutkijoita, vartijoita, toimihenkilöitä, johtajia, rakennusinsinöörejä, siivoojia jne.
-
-Meteoriitin mukana tulleet "madot" voivat tunkeutua minkä tahansa eläimen tai ihmisen sisään muodostaen symbioosin isäntänsä kanssa antaen tälle mahtavat voimat. Altistaminen "madoille" ei kuitenkaan ole riskitöntä ja sillä voi olla vakavia seuraamuksia.
+== Backgrounds ==
+In the year 2010 a human race found themselves facing a terrible threat. A meteorite of 200km diameter, designated as 703-H Hephaestus was abruptly discovered, and it was on a collision course with the earth. With almost certain probability of a collision, the United Nations launched an unparalleled mission in the history of human kind to destroy the incoming threat. The mission was success, but not entirely.
 
 
-== Juoni ==
+ ..... 7 years after the collision a reasearch center CRATER shades the lands around the meteorite.
+
+
+== Present ==
+Crater employs hundreds of men around the clock. Doctors, scientists, guards, management, engineers etc.
+
+The meteorite fragment didn't come alone. It was habited by primitive organisms that can invade into the human body forming a symbiosis with the host. They give a unique power to anybody who is exposed with the organism. Exposion with the organism is not though riskless and it may have severe consequences.
+
+== The Plot ==
 Olet työntekijänä Craterilla. Aloitat työpäiväsi normaaliin tapaan ja esität portilla vartijalle henkilökorttisi, jossa hahmon luonti tapahtuu. Kävelet työpisteellesi ja hoidat muutamia sinulle kuuluvia työtehtäviä. Olet laboratoriossa (tutkimassa, korjaamassa, siivoomassa, tekemässä kierrosta, jne.), kun....
 
-* CRATER JOUTUU KAAOKSEEN *
+* CRATER IN A CHAOS *
 
 Crater on kaaoksen vallassa. Et tiedä mitä on tapahtunut ja haluat äkkiä ulos. Olet kuullut, että Craterilla on tehty vaarallisia kokeita madoilla myös ihmisiin, jotka eivät välttämättä ole olleet halukkaita yhteistyöhön. Lähdet juoksemaan kohti ulosmenoa...
 
-* ALTISTUMINEN MADOILLE * 
+* EXPOSURE * 
 
 Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytämään symbionttien antamat erikoisvoimat. Haluat silti päästä pois Craterista, mutta pako ei olekaan niin helppoa. Muut altistuneet tietävät sinulla olevan matoja ja jotkut heistä haluavat kasvattaa voimiaan ottamalla matosi itselleen.
 
-* KAAOKSEN SYY SELVIÄÄ *
+* REASON OF THE CHAOS CLEARS UP *
 
 ...
 
-* PÄÄSET ULOS *
+* OUTDOORS *
 
 = Gameplay =
 
