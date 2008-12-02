@@ -1,0 +1,29 @@
+#summary Character creation progress
+
+= Character creation =
+
+Character creation happens at the gate when you state your ID card for the guard. The following fields are possible to fill / select:
+
+  * Name
+  * Gender
+  * Photo
+  * Department
+    * Guard
+    * Scientist
+    * Doctor
+    * Engineer
+    * Government
+  * other?
+
+Character attributes:
+
+  * HP
+  * Lvl
+  * Strength
+  * Intelligence
+  * Dexterity
+  * Charisma
+  * Creativity(ability to use multiple special powers as combos)
+  * Amount of symbionts
+  * Special powers
+  * Energy (how much / long the player can use special powers)
