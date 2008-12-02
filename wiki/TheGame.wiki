@@ -39,11 +39,11 @@ You are no one of the Hephaestus', but luckily don't notice any side effects, no
 
 = Gameplay =
 
-[Character creation]
+[CharacterCreation]
 
   * Departments
 
-[Character advancement]
+[CharacterAdvancement]
 
   * Level up
 
@@ -51,7 +51,7 @@ You are no one of the Hephaestus', but luckily don't notice any side effects, no
 
   * Alignment
 
-[Special powers]
+[SpecialPowers]
 
   * List of the skills
 
