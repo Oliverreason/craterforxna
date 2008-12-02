@@ -3,7 +3,7 @@
 = Concept =
 
 == Backgrounds ==
-In the year 2010 a human race found themselves facing a terrible threat. A meteorite of 200km diameter, designated as 703-H Hephaestus was abruptly discovered, and it was on a collision course with the earth. With almost certain probability of a collision, the United Nations launched an unparalleled mission in the history of human kind to destroy the incoming threat. The mission was success, but not entirely.
+In the year 2010 a human race found themselves facing a terrible threat. A meteorite of 200km diameter, designated as 703-H Hephaestus was abruptly discovered, and it was on a collision course with the earth. With almost certain probability of a collision, the United Nations launched an unparalleled mission in the history of human kind to destroy the incoming threat. The mission was a success, almost.
 
 
  ..... 7 years after the collision a reasearch center CRATER shades the lands around the meteorite.
@@ -12,18 +12,24 @@ In the year 2010 a human race found themselves facing a terrible threat. A meteo
 == Present ==
 Crater employs hundreds of men around the clock. Doctors, scientists, guards, management, engineers etc.
 
-The meteorite fragment didn't come alone. It was habited by primitive organisms that can invade into the human body forming a symbiosis with the host. They give a unique power to anybody who is exposed with the organism. Exposion with the organism is not though riskless and it may have severe consequences.
+The meteorite fragment didn't come alone. It was habited by primitive organisms that can invade the human body forming a symbiosis with the host. They give a unique power to anybody who is exposed with them. Exposion with the organism is not riskless though and it may have severe consequences.
+
+Scientists in the Crater had been struggling to solve three problems related on the living organism. The first two are how to control the organism not to harm human body when they are injected. The more you have them in you, the more probably you will lose control of yourself. Injection also has 30% probability to damage certain tissues or inflict serious DNA mutation or allergy reactions. The second problem is how to keep the organism alive outside of the meteorite's radiation range. Meteorite produces neutrinoless double beta decay that keeps the organism alive but does not harm human body as the radiation level is low enough. The first problem has not yet any significant results, but scientists have produced a formula that will slightly reduce the probability of any inflics when injecting the organism in human body. But a solution for the second question is about to be found in very near future.
 
 == The Plot ==
-Olet työntekijänä Craterilla. Aloitat työpäiväsi normaaliin tapaan ja esität portilla vartijalle henkilökorttisi, jossa hahmon luonti tapahtuu. Kävelet työpisteellesi ja hoidat muutamia sinulle kuuluvia työtehtäviä. Olet laboratoriossa (tutkimassa, korjaamassa, siivoomassa, tekemässä kierrosta, jne.), kun....
 
-* CRATER IN A CHAOS *
+=== Prologue ===
+You are an employee in the Crater. You start your first day at the Crater and show your ID card at the gate for the guard. Here you create your character and choose the department where you were employed at. As you have created your character, you'll receive your first task "Find your department". 
 
-Crater on kaaoksen vallassa. Et tiedä mitä on tapahtunut ja haluat äkkiä ulos. Olet kuullut, että Craterilla on tehty vaarallisia kokeita madoilla myös ihmisiin, jotka eivät välttämättä ole olleet halukkaita yhteistyöhön. Lähdet juoksemaan kohti ulosmenoa...
+As you find your department you will do assignments that you receive from your supervisor. Later you are working in the main lab in the lowest levels of the complex (doing research, fixing, interviewing, guarding etc.) when everything started. Scientists have found a way to keep the organism alive beyond the meteorite's radiation.
 
-* EXPOSURE * 
+=== Crater in chaos ===
+Suddenly happy faces around you turns to faces of agony. People are running and dying around you. Flames overruns the laboratory and you need to get out as soon as possible. It doesn't take long to realize that people behind the massacre was the Hephaestus' (people who has a symbiont). Now they can leave from the Crater without killing the symbiont inside them.
 
-Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytämään symbionttien antamat erikoisvoimat. Haluat silti päästä pois Craterista, mutta pako ei olekaan niin helppoa. Muut altistuneet tietävät sinulla olevan matoja ja jotkut heistä haluavat kasvattaa voimiaan ottamalla matosi itselleen.
+If the organism has taken some of the host's control, the host will act very unpredictable way. The most common behaviour is to find other Hephaestus' and try to seize their organisms for themselves.
+
+=== One of the Hephaestus' === 
+You are no one of the Hephaestus', but luckily don't notice any side effects, nor any effects. You have to find out the special powers the symbiont gives you. You have to learn the way how to live with the symbiont. Your main target is still to get out of the Crater as soon as possible, but it ain't going to be any easier with the symbiont. Organism gives an ability to sense every Hephaestus' near you and there are ones that wants to boost their powers by taking your symbiont for themselves.
 
 * REASON OF THE CHAOS CLEARS UP *
 
@@ -33,42 +39,42 @@ Altistut madoille, mutta et huomaa itsessäsi mitään erikoista. Joudut löytä
 
 = Gameplay =
 
-[Hahmonluonti]
+[Character creation]
 
-  * Erikoisalat
+  * Departments
 
-[Hahmonkehitys]
+[Character advancement]
 
   * Level up
 
   * Skill improvement
 
-  * Hyvis vs. pahis
+  * Alignment
 
-[Eroikoisvoimat]
+[Special powers]
 
-  * Vaihtoehdot
+  * List of the skills
 
-  * Käyttö
+  * Usage
 
-[Madot]
+[Organism]
 
-  * Kuinka paljon
+  * Total amount
 
-  * Vaikutukset
+  * Affections
 
-  * Riskit
+  * Risks
 
-  * Matojen menettäminen
+  * Losing the organism
 
 [NPC]
 
-  * Lista eri vihollisista
+  * List of the enemies
 
-  * Erikoisviholliset
+  * Main enemies
 
-  *  Muut NPC:t
+  * Other NPCs
 
-[Taistelut]
+[Battles]
 
-[Aseet]
+[Weapons]
