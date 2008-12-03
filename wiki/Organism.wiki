@@ -1,0 +1,14 @@
+#summary The Hephaestus organism
+
+= Overview =
+The organism is named after the meteorite they came along with, Hephaestus. Hephaestus is 0.7µm sized primitive organism that acts much like bacteria. They live mostly in a mutualist relationship with their host by providing complex protein compounds and bening DNA mutations for the host. Scientists haven't yet discovered how the proteins work in association with the DNA mutations, but somehow it gives extremely unique powers for the host they live in. 
+
+    * Total amount 
+
+    * Effections 
+
+    * Obtaining organisms 
+
+    * Risks 
+
+    * Losing the organism 
