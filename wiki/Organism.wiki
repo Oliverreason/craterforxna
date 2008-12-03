@@ -1,13 +1,13 @@
 #summary The Hephaestus organism
 
 = Overview =
-The organism is named after the meteorite they came along with, Hephaestus. Hephaestus is 0.7µm sized primitive organism that acts much like bacteria. They live mostly in a mutualist relationship with their host by providing complex protein compounds and bening DNA mutations for the host. Scientists haven't yet discovered how the proteins work in association with the DNA mutations, but somehow it gives extremely unique powers for the host they live in. The host gives them an ability to produce mitosis-like process that keeps the population stable.
+The organism is named after the meteorite they came along with, Hephaestus. Hephaestus is 0.7µm sized primitive organism that acts much like bacteria. They live mostly in a mutual relationship with their host by providing complex protein compounds and bening DNA mutations for the host. Scientists haven't yet discovered how the proteins work in association with the DNA mutations, but somehow it gives extremely unique powers for the host they live in. The host gives them an ability to produce mitosis-like process that keeps the population stable.
 
-Scientists think that most of the organisms died when the meteorite was exploded and on the collision with the earth. They have made many attemptions to increase the amount of organism without success. Host would need 500CFU/ml (colony forming units per milli liter) to achieve any powers from the organism. Total amount of original organisms was approximately 10^4^CFUs what means total of 20 original Hephaestus' in the crater.
+Scientists think that most of the organisms died when the meteorite exploded when it collided with the earth. They have made many attempts to increase the amount of organism without success. So far has been discovered that the host would need 500CFU/ml (colony forming units per milli liter) to achieve any powers from the organism. Total amount of original organisms was approximately 10^4^CFUs so it is estimated that the total of 20 original infected hosts resides in the crater.
 
-    * Effections 
+    * Effects
 
-Organism senses when oxygen level of the host goes down as they die. As soon as it happens, organism gathers in a one single colony in the stomach. In a few minutes the colony has built a membrane around it and falls in a hibernete state. By placing (swallowing) this mebrane in living stomach, organism will awake from the hibernate and give the powers for the new host.
+Organism senses when vital functions of the host cease as they die. As soon as it happens, Hephaestus gathers in a one single colony to the stomach. In a few minutes the colony has built a membrane around it and falls in a hibernete state. By placing (swallowing) this mebrane in living stomach, organism will awake from the hibernate and give the powers for the new host.
 
     * Risks 
 
