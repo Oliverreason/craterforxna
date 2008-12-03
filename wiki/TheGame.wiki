@@ -3,7 +3,7 @@
 = Concept =
 
 == Backgrounds ==
-In the year 2010 a human race found themselves facing a terrible threat. A meteorite of 200km diameter, designated as 703-H Hephaestus was abruptly discovered, and it was on a collision course with the earth. With almost certain probability of a collision, the United Nations launched an unparalleled mission in the history of human kind to destroy the incoming threat. The mission was a success, almost.
+In the year 2010 a human race found themselves facing a terrible threat. A huge meteorite, designated as 703-H Hephaestus was abruptly discovered, and it was on a collision course with the earth. With almost certain probability of a collision and destruction of the earth, the United Nations launched an unparalleled mission in the history of human kind to destroy the incoming threat. The mission was a success, almost.
 
 
  ..... 7 years after the collision a reasearch center CRATER shades the lands around the meteorite.
@@ -12,9 +12,9 @@ In the year 2010 a human race found themselves facing a terrible threat. A meteo
 == Present ==
 Crater employs hundreds of men around the clock. Doctors, scientists, guards, management, engineers etc.
 
-The meteorite fragment didn't come alone. It was habited by primitive organisms that can invade the human body forming a symbiosis with the host. They give a unique power to anybody who is exposed with them. Exposion with the organism is not riskless though and it may have severe consequences.
+The meteorite fragment didn't come alone. It was habited by primitive organisms that can invade the human body forming a symbiosis with the host. They give a unique power to anybody who is exposured with them. Exposion with the organism is not riskless though and it may have severe consequences.
 
-Scientists in the Crater had been struggling to solve three problems related on the living organism. The first two are how to control the organism not to harm human body when they are injected. The more you have them in you, the more probably you will lose control of yourself. Injection also has 30% probability to damage certain tissues or inflict serious DNA mutation or allergy reactions. The second problem is how to keep the organism alive outside of the meteorite's radiation range. Meteorite produces neutrinoless double beta decay that keeps the organism alive but does not harm human body as the radiation level is low enough. The first problem has not yet any significant results, but scientists have produced a formula that will slightly reduce the probability of any inflics when injecting the organism in human body. But a solution for the second question is about to be found in very near future.
+Scientists in the Crater had been struggling to solve three problems related on the living organism. The first two are how to control the organism not to harm human body when they are injected. The more you have them in you, the more probably you will lose control of yourself. Injection also has huge probability to damage certain tissues or inflict serious DNA mutation or allergy reactions. The second problem is how to keep the organism alive outside of the meteorite's radiation range. Meteorite produces neutrinoless double beta decay that keeps the organism alive but does not harm human body as the radiation level is low enough. The first problem has not yet any significant results, but scientists have produced a formula that will slightly reduce the probability of any inflics when injecting the organism in human body. But a solution for the second question is about to be found in very near future.
 
 == The Plot ==
 
@@ -61,9 +61,11 @@ You are no one of the Hephaestus', but luckily don't notice any side effects, no
 
   * Total amount
 
-  * Affections
+  * Effections
 
-  * Risks
+  * Obtaining organisms
+
+  * Risks 
 
   * Losing the organism
 
