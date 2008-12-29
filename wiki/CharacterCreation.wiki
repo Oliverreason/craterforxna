@@ -2,7 +2,7 @@
 
 = Character creation =
 
-Character creation happens at the gate when you state your ID card for the guard. The following fields are possible to fill / select:
+The following fields are possible to fill / select:
 
   * Name
   * Gender
@@ -24,6 +24,6 @@ Character attributes:
   * Dexterity
   * Charisma
   * Creativity(ability to use multiple special powers as combos)
-  * Amount of symbionts
+  * CFU of organism
   * Special powers
   * Energy (how much / long the player can use special powers)
