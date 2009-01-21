@@ -1,5 +1,0 @@
-#summary Pidetyt palaverit
-
-= Palaverit =
-
-* [Aloituspalaveri20081124 Aloituspalaveri]
