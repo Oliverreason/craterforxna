@@ -1,0 +1,14 @@
+D:\BSP loader\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+D:\BSP loader\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\Q3BSPContentPipelineExtension.dll
+D:\BSP loader\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\Q3BSPContentPipelineExtension.pdb
+D:\BSP loader\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\XNAQ3Lib.dll
+D:\BSP loader\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\XNAQ3Lib.pdb
+D:\BSP loader\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\Q3BSPContentPipelineExtension.dll
+D:\BSP loader\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\Q3BSPContentPipelineExtension.pdb
+D:\craterforxna\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\Q3BSPContentPipelineExtension.dll
+D:\craterforxna\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\Q3BSPContentPipelineExtension.pdb
+D:\craterforxna\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\XNAQ3Lib.dll
+D:\craterforxna\Q3BSPContentPipelineExtension\bin\Xbox 360\Debug\XNAQ3Lib.pdb
+D:\craterforxna\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+D:\craterforxna\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\Q3BSPContentPipelineExtension.dll
+D:\craterforxna\Q3BSPContentPipelineExtension\obj\Xbox 360\Debug\Q3BSPContentPipelineExtension.pdb
