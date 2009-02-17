@@ -1,0 +1,10 @@
+D:\BSP loader\XNAQ3Lib.Q3BSP\obj\Debug\ResolveAssemblyReference.cache
+D:\BSP loader\XNAQ3Lib.Q3BSP\bin\Debug\XNAQ3Lib.dll
+D:\BSP loader\XNAQ3Lib.Q3BSP\bin\Debug\XNAQ3Lib.pdb
+D:\BSP loader\XNAQ3Lib.Q3BSP\obj\Debug\XNAQ3Lib.dll
+D:\BSP loader\XNAQ3Lib.Q3BSP\obj\Debug\XNAQ3Lib.pdb
+D:\craterforxna\XNAQ3Lib.Q3BSP\bin\Debug\XNAQ3Lib.dll
+D:\craterforxna\XNAQ3Lib.Q3BSP\bin\Debug\XNAQ3Lib.pdb
+D:\craterforxna\XNAQ3Lib.Q3BSP\obj\Debug\ResolveAssemblyReference.cache
+D:\craterforxna\XNAQ3Lib.Q3BSP\obj\Debug\XNAQ3Lib.dll
+D:\craterforxna\XNAQ3Lib.Q3BSP\obj\Debug\XNAQ3Lib.pdb
